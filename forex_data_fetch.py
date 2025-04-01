@@ -1,6 +1,6 @@
 import requests
 import pandas as pd
-API_KEY = 'H4UO7UISDVB7553P'  # Grom https://www.alphavantage.co/support/#api-key
+API_KEY = 'PASTE YOUR KEY'  # Grom https://www.alphavantage.co/support/#api-key
 BASE_URL = 'https://www.alphavantage.co/query'
 
 params = {
